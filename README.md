@@ -28,9 +28,6 @@ MATLAB (R2021a or later)
 Used for behavioral preprocessing and feature extraction.
 
 
-## Usage
-Run scripts in the `analysis/` folder to reproduce results.
-
 ## Data availability
 Due to the large size of raw behavioral videos, raw data are available
 from the corresponding author upon reasonable request.
